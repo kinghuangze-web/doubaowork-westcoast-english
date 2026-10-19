@@ -1,0 +1,4 @@
+Pillow==13.0.0
+onnxruntime==1.31.0
+pywin32==312
+rapidocr==3.10.0
